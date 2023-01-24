@@ -1,0 +1,16 @@
+.BtnNuevo{
+    background-color: rgb(118, 196, 140);
+
+}
+.BtnEdit{
+    background-color: cornflowerblue;
+}
+
+.BtnEliminar{
+    background-color: red;
+}
+form {
+    margin: auto;
+    width: 220px;
+    text-align: center;
+}
